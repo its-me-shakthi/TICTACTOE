@@ -1,4 +1,3 @@
-// const btnadd = document.getElementById("addbtn");
 // const row = document.querySelectorAll(".cel").textContent;
 // const message = document.querySelector(".message");
 // const btnres = document.querySelector(".reset");
@@ -72,24 +71,6 @@
 // };
 // res();
 
-// const rowcol = function () {
-//   btnadd.addEventListener("click", function () {
-//     const insertRow = document.getElementById("row").value;
-//     const insertCol = document.getElementById("column").value;
 
-//     for (var r = 0; r < insertRow; r++) {
-//       const tr = document.createElement("tr");
-//       tr.classList.add("newr" + r);
-
-//       for (var c = 0; c < insertCol; c++) {
-//         const td = document.createElement("td");
-//         td.classList.add("newc" + c);
-//         tr.append(td);
-//       }
-//       table.append(tr);
-//     }
-//   });
-// };
-// rowcol();
 // //////////////////////
 // //////////////////////
