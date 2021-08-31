@@ -57,7 +57,7 @@ const getRow = function (a, b, c, move) {
   return result;
 };
 const box = function (number) {
-  return document.getElementById("cel" + number);
+  return document.getElementById("cel" + number).innerText;
 };
 // cell.forEach((cell) => {
 //   cell.addEventListener("click", tabclick);
